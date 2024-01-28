@@ -27,9 +27,9 @@ export default function Testimonials() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h2 className="h2 mb-4">Trusted by over 20,000 companies all over the world</h2>
-            <p className="text-xl text-gray-600" data-aos="zoom-y-out">Arcu cursus vitae congue mauris rhoncus viverra nibh cras pulvinar mattis
-              blandit libero cursus mattis.</p>
+            <h2 className="h2 mb-4">Decades of Diverse Experience at Your Service</h2>
+            <p className="text-xl text-gray-600" data-aos="zoom-y-out">At 10Net, we don't just offer IT solutions; we bring to the table over 10 years of rich, 
+            diverse experience that spans across various industries. This breadth of experience enables us to understand and address unique industry-specific challenges, offering solutions that are not just effective but also highly customized to your specific needs.</p>
           </div>
 
           {/* Items */}
@@ -73,10 +73,8 @@ export default function Testimonials() {
           </div>
 
           {/* Testimonials */}
-          <div className="max-w-3xl mx-auto mt-20" data-aos="zoom-y-out">
+          {/* <div className="max-w-3xl mx-auto mt-20" data-aos="zoom-y-out">
             <div className="relative flex items-start border-2 border-gray-200 rounded bg-white">
-
-              {/* Testimonial */}
               <div className="text-center px-12 py-8 pt-20 mx-4 md:mx-0">
                 <div className="absolute top-0 -mt-8 left-1/2 transform -translate-x-1/2">
                   <svg className="absolute top-0 right-0 -mt-3 -mr-8 w-16 h-16 fill-current text-blue-500" viewBox="0 0 64 64" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
@@ -94,7 +92,7 @@ export default function Testimonials() {
               </div>
 
             </div>
-          </div>
+          </div> */}
 
         </div>
       </div>

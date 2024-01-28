@@ -1,5 +1,5 @@
 export const metadata = {
-  title: '10 Net - Home',
+  title: '10Net - Home',
   description: 'PT Tennet Nasional Teknologi',
 }
 
@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <>
       <Hero />
-      <Features />
+      {/* <Features /> */}
       <FeaturesBlocks />
       <Testimonials />
       <Newsletter />
