@@ -7,9 +7,9 @@ export default function Logo() {
         <defs>
           {/* <radialGradient cx="21.152%" cy="86.063%" fx="21.152%" fy="86.063%" r="79.941%" id="footer-logo"> */}
           <radialGradient cx="86.063%" cy="78.848%" fx="86.063%" fy="78.848%" r="79.941%" id="footer-logo">
-            <stop stopColor="#6d28d9" offset="0%" />
+            <stop stopColor="#a3e635" offset="0%" />
             <stop stopColor="#c084fc" offset="75.871%" />
-            <stop stopColor="#a3e635" offset="100%" />
+            <stop stopColor="#6d28d9" offset="100%" />
           </radialGradient>
         </defs>
         <rect width="32" height="32" rx="16" fill="url(#footer-logo)" fillRule="nonzero" />
