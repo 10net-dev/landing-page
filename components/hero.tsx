@@ -34,7 +34,7 @@ export default function Hero() {
               <p className="text-xl text-gray-600 mb-8" data-aos="zoom-y-out" data-aos-delay="150">Your Partner in Navigating Tomorrow's Technology : Integrating, Advancing, Innovating.</p>
               <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">
                 <div>
-                  <a className="btn text-white bg-purple-700 hover:bg-lime-400 w-full mb-4 sm:w-auto sm:mb-0" href="#0">Company Profile</a>
+                  <a className="btn text-white bg-purple-700 hover:bg-lime-400 hover:text-black w-full mb-4 sm:w-auto sm:mb-0" href="#0">Company Profile</a>
                 </div>
               </div>
             </div>
