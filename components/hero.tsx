@@ -41,7 +41,7 @@ export default function Hero() {
           </div>
 
           {/* Hero image */}
-          <ModalVideo
+          {/* <ModalVideo
             thumb={VideoThumb}
             thumbWidth={768}
             thumbHeight={432}
@@ -50,7 +50,7 @@ export default function Hero() {
             videoWidth={1920}
             videoHeight={1080} />
 
-        </div>
+        </div> */}
 
       </div>
     </section>
