@@ -32,7 +32,7 @@ export default function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Web & Mobile Application</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p className="text-gray-600 text-center">Elevate your digital presence with our bespoke web and mobile app development services.</p>
             </div>
 
             {/* 2nd item */}
@@ -48,7 +48,7 @@ export default function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">System Integration</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p className="text-gray-600 text-center">Streamlining your business operations through efficient integration of diverse platform</p>
             </div>
 
             {/* 3rd item */}
@@ -65,7 +65,7 @@ export default function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Artificial Intelligence</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p className="text-gray-600 text-center">"Implementing advanced AI solutions to drive innovation and operational efficiency in your business."</p>
             </div>
 
             {/* 4th item */}
@@ -82,7 +82,7 @@ export default function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Identity Management</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p className="text-gray-600 text-center">Enhancing security and user experience with robust identity management and authentication solutions.</p>
             </div>
 
             {/* 5th item */}
@@ -98,7 +98,7 @@ export default function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">IT Consultancy</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p className="text-gray-600 text-center">Providing expert IT consulting to optimize your technology strategy and solve complex challenges.</p>
             </div>
 
             {/* 6th item */}
@@ -113,7 +113,7 @@ export default function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Security Assesment</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p className="text-gray-600 text-center">Conducting comprehensive security assessments to protect your IT infrastructure from emerging threats.</p>
             </div>
 
           </div>
