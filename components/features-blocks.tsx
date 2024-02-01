@@ -48,7 +48,7 @@ export default function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">System Integration</h4>
-              <p className="text-gray-600 text-center">Streamlining your business operations through efficient integration of diverse platform</p>
+              <p className="text-gray-600 text-center">Streamlining your business operations through efficient integration of diverse platform.</p>
             </div>
 
             {/* 3rd item */}
@@ -65,7 +65,7 @@ export default function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Artificial Intelligence</h4>
-              <p className="text-gray-600 text-center">"Implementing advanced AI solutions to drive innovation and operational efficiency in your business."</p>
+              <p className="text-gray-600 text-center">Implementing advanced AI solutions to drive innovation and operational efficiency in your business.</p>
             </div>
 
             {/* 4th item */}
